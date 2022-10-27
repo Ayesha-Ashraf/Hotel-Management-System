@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Single Bedroom",
+    "image": "https://cdn11.bigcommerce.com/s-31djhj4ixx/images/stencil/1280x1280/products/2086/11267/Mocka_Peyton_Oatmeal_Single_Bed_1__86426.1650403135.jpg?c=1"
+  },
+  {
+    "id": 2,
+    "name": "Double Bedroom",
+    "image": "https://foyr.com/learn/wp-content/uploads/2019/03/best-master-bedroom-makeover-ideas.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Luxury Bedroom",
+    "image": "https://foyr.com/learn/wp-content/uploads/2019/03/embellished-ceiling-in-master-bedroom-1024x771.png"
+  },
+  {
+    "id": 4,
+    "name": "Balconi View Bedroom",
+    "image": "https://media.designcafe.com/wp-content/uploads/2021/12/10111832/luxury-bedroom-design-with-balcony.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Family Bedroom",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3dAb4qTb7Q4XV2Ck5F9B0YnG30aF2MLZl7w&usqp=CAU"
+  }
+]
